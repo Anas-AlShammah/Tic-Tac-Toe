@@ -1,0 +1,5 @@
+F:\asp\newApp\acas\Tic-Tac-Toe\1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+F:\asp\newApp\acas\Tic-Tac-Toe\1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp\newApp\acas\Tic-Tac-Toe\1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\asp\newApp\acas\Tic-Tac-Toe\1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+F:\asp\newApp\acas\Tic-Tac-Toe\1\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
