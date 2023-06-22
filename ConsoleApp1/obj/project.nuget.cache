@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "beXOCgm+6LD3F15sm0no+10b8spKzYIegaSVmPFpyKImE8VpY8tgYKfpUVTSVhq4L+URiQ/ApVpqRviVyS6bQA==",
+  "dgSpecHash": "MFVWWkrCP5qyw6FUL2GIdt3MjT1d9GOHXu4rcfy3SGJQ7LhKfETgw45YWbqKoPVqGdBmKGeBJUwRcg/bDs0BQA==",
   "success": true,
-  "projectFilePath": "F:\\asp\\newApp\\acas\\Tic-Tac-Toe\\1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "F:\\asp\\newApp\\acas\\Tic-Tac-Toe\\1\\ConsoleApp1\\ConsoleApp1\\Tic_Tac_Toe.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

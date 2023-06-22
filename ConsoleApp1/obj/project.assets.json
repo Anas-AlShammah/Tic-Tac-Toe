@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\asp\\newApp\\acas\\Tic-Tac-Toe\\1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "F:\\asp\\newApp\\acas\\Tic-Tac-Toe\\1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "F:\\asp\\newApp\\acas\\Tic-Tac-Toe\\1\\ConsoleApp1\\ConsoleApp1\\Tic_Tac_Toe.csproj",
+      "projectName": "Tic_Tac_Toe",
+      "projectPath": "F:\\asp\\newApp\\acas\\Tic-Tac-Toe\\1\\ConsoleApp1\\ConsoleApp1\\Tic_Tac_Toe.csproj",
       "packagesPath": "C:\\Users\\COP\\.nuget\\packages\\",
       "outputPath": "F:\\asp\\newApp\\acas\\Tic-Tac-Toe\\1\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
