@@ -1712,6 +1712,16 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Tic_Tac_Toe/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Tic_Tac_Toe.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tic_Tac_Toe.dll": {}
+        }
       }
     }
   },
@@ -5506,11 +5516,17 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Tic_Tac_Toe/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleApp1/Tic_Tac_Toe.csproj",
+      "msbuildProject": "../ConsoleApp1/Tic_Tac_Toe.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.NET.Test.Sdk >= 17.5.0",
+      "Tic_Tac_Toe >= 1.0.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -5551,7 +5567,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\asp\\newApp\\acas\\Tic-Tac-Toe\\1\\ConsoleApp1\\ConsoleApp1\\Tic_Tac_Toe.csproj": {
+              "projectPath": "F:\\asp\\newApp\\acas\\Tic-Tac-Toe\\1\\ConsoleApp1\\ConsoleApp1\\Tic_Tac_Toe.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
