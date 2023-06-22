@@ -6,7 +6,7 @@ This lab assignment focuses on creating a two-player, turn-based Tic-Tac-Toe pro
 ## Visuals
 ![Tic-Tac-Toe Game Board](Screenshotpng.png)
 
-![Tic-Tac-Toe Game Board](Whiteboard 1 (2).png)
+![Tic-Tac-Toe Game Board](Whiteboard%201%20(2).png)
 
 
 
